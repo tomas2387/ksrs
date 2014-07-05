@@ -1,5 +1,7 @@
-Silex Template
+This proyect made with Silex Template
 ==============
+
+See https://github.com/clops/silex-template        
 
 Silex-Based Website Template which can be used as a starting point for pretty much any website. Just a nice way to spare time for setup in the future.
 
