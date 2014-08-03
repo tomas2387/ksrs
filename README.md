@@ -1,4 +1,4 @@
-This proyect made with Silex Template
+This proyect is made with Silex Template
 ==============
 
 See https://github.com/clops/silex-template        
