@@ -10,8 +10,8 @@
 	use Symfony\Component\HttpFoundation\Response;
 
 	/** @var Silex\Application $app * */
-	$app->get('/', 'Clops\Controller\PageController::indexAction');
-	$app->get('/index.html', 'Clops\Controller\PageController::indexAction');
+	$app->get('/', 'Ksrs\Controller\PageController::indexAction');
+	$app->get('/index.html', 'Ksrs\Controller\PageController::indexAction');
 
 
 	## Error Handlers ##############################################################

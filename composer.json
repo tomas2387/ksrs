@@ -29,8 +29,8 @@
     },
 
     "scripts": {
-        "post-install-cmd": "Clops\\Composer\\Script::install",
-        "post-update-cmd": "Clops\\Composer\\Script::install"
+        "post-install-cmd": "Ksrs\\Composer\\Script::install",
+        "post-update-cmd": "Ksrs\\Composer\\Script::install"
     },
 
     "autoload": {

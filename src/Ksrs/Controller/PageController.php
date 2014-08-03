@@ -2,7 +2,7 @@
 	/**
 	 * @author Alexey Kulikov aka Clops <me@clops.at>
 	 */
-	namespace Clops\Controller;
+	namespace Ksrs\Controller;
 
 	use Silex\Application;
 	use Symfony\Component\HttpFoundation\Request;
@@ -10,7 +10,7 @@
 	/**
 	 * Class PageController
 	 *
-	 * @package Clops\Controller
+	 * @package Ksrs\Controller
 	 */
 	class PageController
 	{

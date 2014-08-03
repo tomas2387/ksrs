@@ -1,6 +1,6 @@
 <?php
 
-	namespace Clops\Composer;
+	namespace Ksrs\Composer;
 
 	class Script {
 
